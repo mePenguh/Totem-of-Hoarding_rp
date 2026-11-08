@@ -1,3 +1,5 @@
 {
-    "snowstick.snowball_on_a_stick": "Schneeballrute"
+    "item.totem_of_hoarding.totem_of_hoarding": "Totem der Hortung",
+    "advancements.totem_of_hoarding.use_hoarding_totem.title": "Mein Schatz",
+    "advancements.totem_of_hoarding.use_hoarding_totem.description": "Benutze ein Totem der Hortung, um dein Inventar nach dem Tod zu behalten"
 }
