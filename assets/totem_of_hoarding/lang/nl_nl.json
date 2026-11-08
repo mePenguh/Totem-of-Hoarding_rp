@@ -1,3 +1,5 @@
 {
-    "totem_of_hoarding.totem_of_hoarding": "Totem der Hamsteren"
+    "item.totem_of_hoarding.totem_of_hoarding": "Totem der verzamelzucht",
+    "advancements.totem_of_hoarding.use_hoarding_totem.title": "Mijn Lieveling",
+    "advancements.totem_of_hoarding.use_hoarding_totem.description": "Gebruik een totem der verzamelzucht om je spullen te behouden als je dood gaat"
 }
